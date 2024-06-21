@@ -26,6 +26,7 @@ Application can can be viewed here:
 
 ## Screenshot
 Month Calendar
+
 ![Screenshot](assets/images/month-calendar.png "Month calculator")
 
 ## Credit
