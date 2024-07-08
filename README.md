@@ -6,6 +6,11 @@ The Month Calendar Web App is a simple and intuitive application designed to dis
 ## Prerequisites
 N/A
 
+## Features
+* Display current month's calendar.
+* Responsive design for mobile and desktop use.
+* Highlight current date.
+
 ## Technologies Used
 Built with:
 * HTML
@@ -16,7 +21,8 @@ Built with:
 N/A
 
 ## Usage
-N/A
+* Open the Month Calendar web application in your browser.
+* View the current month's calendar.
 
 ## Project Link
 Application can can be viewed here: 
